@@ -1,6 +1,23 @@
-# 💫 About Me:
-🔭 I’m currently working on [portfolio](https://akash-jana.vercel.app/)<br>👯 I’m looking to collaborate on Nextjs projects<br>🤝 I’m looking for help with backend<br>🌱 I’m currently learning Nextjs<br>💬 Ask me about MERN stack<br>👨‍💻 All of my projects are available in [repositories](https://github.com/AkashJana18?tab=repositories) <br>📫 Reach me at: akashjana663@gmail.com 
+<h1 align="center">Hi 👋, I'm Akash Jana</h1>
+<h3 align="center">I am a web developer</h3>
 
+<div style="display: flex; align-items: flex-start; justify-content: end;">
+  <img align="right" alt="GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="max-width: 100%;">
+  <br>
+  <br>
+  <div style="max-width: calc(100% - 420px);">
+    <p>🔭 I’m currently working on <a href="https://akash-jana.vercel.app">my portfolio</a></p>
+    <p>👯 I’m looking to collaborate on Nextjs projects</p>
+    <p>🤝 I’m looking for help with backend</p>
+    <p>🌱 I’m currently learning Nextjs</p>
+    <p>💬 Ask me about MERN stack</p>
+    <p>👨‍💻 All of my projects are available in <a href="https://github.com/AkashJana18?tab=repositories">Repositories</a></p>
+    <p>📫 Reach me at: <b>akashjana663@gmail.com</b></p>
+  </div>
+</div>
+<br>
+<br>
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akashjana) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Akashj_01) 
