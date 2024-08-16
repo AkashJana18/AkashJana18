@@ -10,7 +10,7 @@
     <p>👯 I’m looking to collaborate on Nextjs projects</p>
     <p>🤝 I’m looking for help with backend</p>
     <p>🌱 I’m currently learning Nextjs</p>
-    <p>💬 Ask me about MERN stack</p>
+    <p>💬 Ask me about <b>DSA</b> / MERN stack</p>
     <p>👨‍💻 All of my projects are available in <a href="https://github.com/AkashJana18?tab=repositories">Repositories</a></p>
     <p>📫 Reach me at: <b>akashjana663@gmail.com</b></p>
   </div>
