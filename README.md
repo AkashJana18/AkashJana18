@@ -12,7 +12,7 @@
     <p>🌱 I’m currently learning Nextjs</p>
     <p>💬 Ask me about <b>DSA</b> / MERN stack</p>
     <p>👨‍💻 All of my projects are available in <a href="https://github.com/AkashJana18?tab=repositories">Repositories</a></p>
-    <p>📫 Reach me at: <b>akashjana663@gmail.com</b></p>
+    <p>📫 Reach me at: <a href="mailto:akashjana663@gmail.com">akashjana663@gmail.com</a></p>
   </div>
 </div>
 <br>
