@@ -19,10 +19,6 @@
 <br>
 <br>
 
-## 🌐 Socials:
-[<img src="https://skillicons.dev/icons?i=linkedin" alt="linkdedin" width="40" height="40"/> </a>](https://linkedin.com/in/akashjana)
-
-
 # 💻 Tech Stack:
 <table>
   <tr>
@@ -75,6 +71,9 @@
     </td>
   </tr>
 </table>
+
+## 🌐 Socials:
+[<img src="https://skillicons.dev/icons?i=linkedin" alt="linkdedin" width="40" height="40"/> </a>](https://linkedin.com/in/akashjana)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AkashJana18&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
