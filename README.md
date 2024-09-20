@@ -75,10 +75,6 @@
 ## 🌐 Socials:
 [<img src="https://skillicons.dev/icons?i=linkedin" alt="linkdedin" width="40" height="40"/> </a>](https://linkedin.com/in/akashjana)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AkashJana18&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashJana18&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AkashJana18&theme=highcontrast&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
