@@ -20,7 +20,7 @@
 <br>
 
 # 💻 Tech Stack:
-<table>
+<table style="display: flex; align-items: center; justify-content: center;">
   <tr>
     <td>Programming:</td>
     <td>
@@ -72,7 +72,7 @@
   </tr>
 </table>
 
-[![AkashJana's GitHub | Stats](https://stats.quira.sh/AkashJana/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AkashJana)]
+[![AkashJana's GitHub | Stats](https://stats.quira.sh/AkashJana/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AkashJana)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
