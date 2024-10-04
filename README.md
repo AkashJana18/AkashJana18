@@ -71,7 +71,7 @@
     </td>
   </tr>
 </table>
-
+[![AkashJana's GitHub | Stats](https://stats.quira.sh/AkashJana/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AkashJana)
 ## 🌐 Socials:
 [<img src="https://skillicons.dev/icons?i=linkedin" alt="linkdedin" width="40" height="40"/> </a>](https://linkedin.com/in/akashjana)
 
