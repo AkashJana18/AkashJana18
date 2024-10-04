@@ -73,12 +73,6 @@
 </table>
 
 [![AkashJana's GitHub | Stats](https://stats.quira.sh/AkashJana/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AkashJana)]
-[![AkashJana's GitHub | Topics Over Time](https://stats.quira.sh/AkashJana/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AkashJana)
-[![AkashJana's GitHub | Languages Over Time](https://stats.quira.sh/AkashJana/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AkashJana)
-
-## 🌐 Socials:
-[<img src="https://skillicons.dev/icons?i=linkedin" alt="linkdedin" width="40" height="40"/> </a>](https://linkedin.com/in/akashjana)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
