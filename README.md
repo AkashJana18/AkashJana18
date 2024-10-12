@@ -74,6 +74,7 @@
 ---
 [![An image of @akashjana18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akashjana18)](https://holopin.io/@akashjana18)
 ---
+
 [![AkashJana's GitHub | Stats](https://stats.quira.sh/AkashJana/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AkashJana)
 
 ### ✍️ Random Dev Quote
