@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Jana</h1>
-<h3 align="center">I am a web developer</h3>
+<h3 align="center">I am a web developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> </h3>
 
 <div style="display: flex; align-items: flex-start; justify-content: end;">
   <img align="right" alt="GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="max-width: 100%;">
@@ -19,7 +19,7 @@
 <br>
 <br>
 <div align=center>
-    <h1> 💻 Tech Stack </h1>
+    <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="40" height="40" /> Tech Stack </h1>
       <table>
         <tr>
           <td>Programming:</td>
@@ -75,10 +75,11 @@
  </table>
 </div> 
 
-## Holopin Badges
+<h2> 🦖 Holopin Badges </h2>
+
 [![An image of @akashjana18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akashjana18)](https://holopin.io/@akashjana18)
 
-<h2 align="center">My GitHub Stats</h2>
+<h2 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="50" height="40" /> My GitHub Stats</h2>
   </div>
   <div align="center">
     <table>
