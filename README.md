@@ -19,15 +19,7 @@
 <br>
 <br>
 
-<div align="center">
-  
- <h1>💻 Tech Stack & GitHub Stats</h1>
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3> 💻 Tech Stack </h3>
-      
+<h1> 💻 Tech Stack </h1>
       <table>
         <tr>
           <td>Programming:</td>
@@ -80,30 +72,12 @@
             <img src="https://skillicons.dev/icons?i=postman" width="40" height="40"/> &nbsp;
           </td>
         </tr>
-      </table>
-      
-    </td>
-    
-    <td valign="top" width="50%">
-      
-      <h3> 📊 GitHub Stats & Activity </h3> 
+ </table>
+<a href="http://www.github.com/AkashJana18"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashJana18&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Languages" /></a>
 
-      <a href="http://www.github.com/AkashJana18">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashJana18&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Languages" />
-      </a>
-      <br><br>
-      <a href="https://quira.sh?utm_source=widgets&utm_campaign=AkashJana">
-        <img src="https://stats.quira.sh/AkashJana/github?theme=dark" alt="AkashJana's GitHub | Stats" />
-      </a>
-      
-    </td>
-  </tr>
-</table>
+[![AkashJana's GitHub | Stats](https://stats.quira.sh/AkashJana/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AkashJana)
 
-</div>
-
-
-### Holopin Badges
+## Holopin Badges
 [![An image of @akashjana18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akashjana18)](https://holopin.io/@akashjana18)
 
 <h2 align="center">My GitHub Stats</h2>
@@ -125,9 +99,6 @@
 </table>
 
 </div>
-      
-<a href="http://www.github.com/AkashJana18"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashJana18&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Languages" /></a>
-[![AkashJana's GitHub | Stats](https://stats.quira.sh/AkashJana/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AkashJana)
 </td>
 
 
@@ -135,7 +106,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
 ---
+
 [![](https://visitcount.itsvg.in/api?id=AkashJana18&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
