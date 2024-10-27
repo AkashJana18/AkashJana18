@@ -18,8 +18,8 @@
 <br>
 <br>
 <br>
-
-<h1> 💻 Tech Stack </h1>
+<div align=center>
+    <h1> 💻 Tech Stack </h1>
       <table>
         <tr>
           <td>Programming:</td>
@@ -73,9 +73,7 @@
           </td>
         </tr>
  </table>
-<a href="http://www.github.com/AkashJana18"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashJana18&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Languages" /></a>
-
-[![AkashJana's GitHub | Stats](https://stats.quira.sh/AkashJana/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AkashJana)
+</div> 
 
 ## Holopin Badges
 [![An image of @akashjana18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akashjana18)](https://holopin.io/@akashjana18)
