@@ -19,64 +19,118 @@
 <br>
 <br>
 
-# 💻 Tech Stack:
-<table style="display: flex; align-items: center; justify-content: center;">
+<div align="center">
+  
+ <h1>💻 Tech Stack & GitHub Stats</h1>
+
+<table>
   <tr>
-    <td>Programming:</td>
-    <td>
-    <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a>&nbsp;
-    <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>&nbsp;
-    <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a>&nbsp;
-    <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a>&nbsp;
+    <td valign="top" width="50%">
+      <h3> 💻 Tech Stack </h3>
+      
+      <table>
+        <tr>
+          <td>Programming:</td>
+          <td>
+            <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> &nbsp;
+            <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> &nbsp;
+            <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> &nbsp;
+            <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> &nbsp;
+          </td>
+        </tr>
+        <tr>
+          <td>Frontend:</td>
+          <td>
+            <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/> &nbsp;
+            <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/> &nbsp;
+            <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/> &nbsp; 
+            <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/> &nbsp; 
+            <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/> &nbsp; 
+            <img src="https://skillicons.dev/icons?i=next" width="40" height="40"/> &nbsp; 
+          </td>
+        </tr>
+        <tr>
+          <td>UI Libraries:</td>
+          <td>
+            <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/> &nbsp;
+            <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/> &nbsp;
+          </td>
+        </tr>
+        <tr>
+          <td>Backend:</td>
+          <td>
+            <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/> &nbsp;
+            <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/> &nbsp;
+          </td>
+        </tr>
+        <tr>
+          <td>Database:</td>
+          <td>
+            <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/> &nbsp; 
+            <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/> &nbsp;
+            <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/> &nbsp;
+          </td>
+        </tr>
+        <tr>
+          <td>Tools:</td>
+          <td>
+            <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/> &nbsp;
+            <img src="https://skillicons.dev/icons?i=bash" width="40" height="40"/> &nbsp;
+            <img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/> &nbsp;
+            <img src="https://skillicons.dev/icons?i=postman" width="40" height="40"/> &nbsp;
+          </td>
+        </tr>
+      </table>
+      
     </td>
-  </tr>
-  <tr>
-    <td>Frontend:</td>
-    <td> <img src="https://skillicons.dev/icons?i=html"  width="40" height="40"/> </a>&nbsp;
-     <img src="https://skillicons.dev/icons?i=css"  width="40" height="40"/> </a>&nbsp;
-     <img src="https://skillicons.dev/icons?i=js"  width="40" height="40"/> </a>&nbsp; 
-     <img src="https://skillicons.dev/icons?i=ts"  width="40" height="40"/> </a>&nbsp; 
-     <img src="https://skillicons.dev/icons?i=react"  width="40" height="40"/> </a>&nbsp; 
-     <img src="https://skillicons.dev/icons?i=next"  width="40" height="40"/> </a>&nbsp; 
-    </td>
-  </tr>
-  <tr>
-    <td>UI Libraries & Frameworks:</td>
-    <td> 
-      <img src="https://skillicons.dev/icons?i=bootstrap"  width="40" height="40"/> </a>&nbsp;
-      <img src="https://skillicons.dev/icons?i=tailwind"  width="40" height="40"/> </a>&nbsp;
-    </td>
-  </tr>
-  <tr>
-    <td>Backend:</td>
-    <td>
-     <img src="https://skillicons.dev/icons?i=nodejs"  width="40" height="40"/> </a>&nbsp;
-     <img src="https://skillicons.dev/icons?i=expressjs"  width="40" height="40"/> </a>&nbsp;
-    </td>
-  </tr>
-  <tr>
-    <td>Database:</td>
-    <td> <img src="https://skillicons.dev/icons?i=mongodb"  width="40" height="40"/> </a>&nbsp; 
-     <img src="https://skillicons.dev/icons?i=mysql"  width="40" height="40"/></a>&nbsp;
-     <img src="https://skillicons.dev/icons?i=postgresql"  width="40" height="40"/> </a>&nbsp;
-    </td>
-  </tr>
-  <tr>
-    <td>Tools:</td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git"  width="40" height="40"/> </a>&nbsp;
-      <img src="https://skillicons.dev/icons?i=bash"  width="40" height="40"/> </a>&nbsp;
-      <img src="https://skillicons.dev/icons?i=linux"  width="40" height="40"/> </a>&nbsp;
-      <img src="https://skillicons.dev/icons?i=postman"  width="40" height="40"/> </a>&nbsp;
+    
+    <td valign="top" width="50%">
+      
+      <h3> 📊 GitHub Stats & Activity </h3> 
+
+      <a href="http://www.github.com/AkashJana18">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashJana18&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Languages" />
+      </a>
+      <br><br>
+      <a href="https://quira.sh?utm_source=widgets&utm_campaign=AkashJana">
+        <img src="https://stats.quira.sh/AkashJana/github?theme=dark" alt="AkashJana's GitHub | Stats" />
+      </a>
+      
     </td>
   </tr>
 </table>
 
+</div>
 
+
+### Holopin Badges
 [![An image of @akashjana18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akashjana18)](https://holopin.io/@akashjana18)
 
+<h2 align="center">My GitHub Stats</h2>
+  </div>
+  <div align="center">
+    <table>
+      <tr>
+        <td width="45%">
+          <a href="http://www.github.com/AkashJana18"><img src="https://github-readme-stats.vercel.app/api?username=AkashJana18&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" alt="Akash's GitHub stats" /></a> 
+        </td>
+        <td width="45%">
+          <a href="http://www.github.com/AkashJana18"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashJana18&theme=tokyonight&hide_border=true" /></a>
+    </table>
+      </div>
+      <a href="http://www.github.com/AkashJana18"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashJana18&theme=merko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+    </td>
+  </tr>
 
+</table>
+
+</div>
+      
+<a href="http://www.github.com/AkashJana18"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashJana18&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Languages" /></a>
 [![AkashJana's GitHub | Stats](https://stats.quira.sh/AkashJana/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AkashJana)
+</td>
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
