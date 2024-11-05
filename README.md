@@ -28,6 +28,7 @@
             <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> &nbsp;
             <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> &nbsp;
             <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> &nbsp;
+            <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> &nbsp;
           </td>
         </tr>
         <tr>
