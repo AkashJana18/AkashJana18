@@ -18,7 +18,7 @@
 <br>
 <br>
 <br>
-<div align=center>
+<div align=center style={{width: 100%}}>
     <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="40" height="40" /> Tech Stack </h1>
       <table>
         <tr>
@@ -28,7 +28,19 @@
             <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> &nbsp;
             <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> &nbsp;
             <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> &nbsp;
-            <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> &nbsp;
+            <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/>
+          </td>
+           <td>UI Libraries:</td>
+          <td>
+            <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/> &nbsp;
+            <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/> 
+          </td>
+           <td>Tools:</td>
+          <td>
+            <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/> &nbsp;
+            <img src="https://skillicons.dev/icons?i=bash" width="40" height="40"/> &nbsp;
+            <img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/> &nbsp;
+            <img src="https://skillicons.dev/icons?i=postman" width="40" height="40"/>
           </td>
         </tr>
         <tr>
@@ -39,40 +51,21 @@
             <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/> &nbsp; 
             <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/> &nbsp; 
             <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/> &nbsp; 
-            <img src="https://skillicons.dev/icons?i=next" width="40" height="40"/> &nbsp; 
+            <img src="https://skillicons.dev/icons?i=next" width="40" height="40"/>
           </td>
-        </tr>
-        <tr>
-          <td>UI Libraries:</td>
-          <td>
-            <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/> &nbsp;
-            <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/> &nbsp;
-          </td>
-        </tr>
-        <tr>
           <td>Backend:</td>
           <td>
             <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/> &nbsp;
-            <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/> &nbsp;
+            <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/>
           </td>
-        </tr>
-        <tr>
-          <td>Database:</td>
+           <td>Database:</td>
           <td>
             <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/> &nbsp; 
             <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/> &nbsp;
-            <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/> &nbsp;
+            <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/>
           </td>
         </tr>
         <tr>
-          <td>Tools:</td>
-          <td>
-            <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/> &nbsp;
-            <img src="https://skillicons.dev/icons?i=bash" width="40" height="40"/> &nbsp;
-            <img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/> &nbsp;
-            <img src="https://skillicons.dev/icons?i=postman" width="40" height="40"/> &nbsp;
-          </td>
-        </tr>
  </table>
 </div> 
 
