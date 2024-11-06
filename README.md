@@ -18,7 +18,7 @@
 <br>
 <br>
 <br>
-<div align=center style={{width: 100%}}>
+<div>
     <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="40" height="40" /> Tech Stack </h1>
       <table>
         <tr>
