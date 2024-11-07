@@ -1,23 +1,19 @@
-<h1 align="center">Hi 👋, I'm Akash Jana</h1>
-<h3 align="center">I am a web developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> </h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+<h1 align="center">Akash Jana <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> | Open Source Enthusiast 💻 | Web Developer 🌐 </h1>
 
 <div style="display: flex; align-items: flex-start; justify-content: end;">
-  <img align="right" alt="GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="max-width: 100%;">
-  <br>
-  <br>
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="550" />
   <div style="max-width: calc(100% - 420px);">
-    <p>🔭 I’m currently working on <a href="https://akash-jana.vercel.app">my portfolio</a></p>
-    <p>👯 I’m looking for Job and Internships</p>
-    <p>🤝 I’m looking for help with backend</p>
-    <p>🌱 I’m currently learning Nextjs</p>
-    <p>💬 Ask me about <b>DSA</b> / MERN stack</p>
-    <p>👨‍💻 All of my projects are available in <a href="https://github.com/AkashJana18?tab=repositories">Repositories</a></p>
-    <p>📫 Reach me at: <a href="mailto:akashjana663@gmail.com">akashjana663@gmail.com</a></p>
+    <h3> 🐦‍🔥 About me:</h3>
+    <p> 🔭 I’m currently working on <a href="https://akash-jana.vercel.app">my portfolio</a></p>
+    <p> 👨‍💻 I’m looking for Job and Internships</p>
+    <p> 🌱 I’m currently learning Nextjs 15</p>
+    <p> 📝 Checkout my blogs here: <a href="https://dev.to/akashjana">DEV</a></p>
+    <p> ⚒️ All of my projects are available in <a href="https://github.com/AkashJana18?tab=repositories">Repositories</a></p>
+    <p> 📫 Reach me at: <a href="mailto:akashjana663@gmail.com">akashjana663@gmail.com</a></p>
   </div>
 </div>
-<br>
-<br>
-<br>
+
 <details>
    <summary> <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="30" height="30" /> Tech Stack </h2></summary>
       <table>
