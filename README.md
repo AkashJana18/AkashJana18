@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
-<h1 align="center">Akash Jana <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> | Open Source Enthusiast 💻 | Web Developer 🌐 </h1>
+<div align=center>
+<h1>Akash Jana <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /><h3>Open Source Enthusiast 💻 | Web Developer 🌐 </h3></h1>
+</div>
 
 <div style="display: flex; align-items: flex-start; justify-content: end;">
   <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="500" />
