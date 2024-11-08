@@ -23,43 +23,43 @@
         <tr>
           <td>Programming:</td>
           <td>
-            <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> &nbsp;
-            <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> &nbsp;
-            <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> &nbsp;
-            <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> &nbsp;
+            <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> 
+            <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> 
+            <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> 
+            <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> 
             <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/>
           </td>
            <td>UI Libraries:</td>
           <td>
-            <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/> &nbsp;
+            <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/> 
             <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/> 
           </td>
            <td>Tools:</td>
           <td>
-            <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/> &nbsp;
-            <img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/> &nbsp;
+            <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/> 
+            <img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/> 
             <img src="https://skillicons.dev/icons?i=postman" width="40" height="40"/>
           </td>
         </tr>
         <tr>
           <td>Frontend:</td>
           <td>
-            <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/> &nbsp;
-            <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/> &nbsp;
-            <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/> &nbsp; 
-            <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/> &nbsp; 
-            <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/> &nbsp; 
+            <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/> 
+            <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/> 
+            <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/> 
+            <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/> 
+            <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/> 
             <img src="https://skillicons.dev/icons?i=next" width="40" height="40"/>
           </td>
           <td>Backend:</td>
           <td>
-            <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/> &nbsp;
+            <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/> 
             <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/>
           </td>
            <td>Database:</td>
           <td>
-            <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/> &nbsp; 
-            <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/> &nbsp;
+            <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/> 
+            <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/> 
             <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/>
           </td>
         </tr>
