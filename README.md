@@ -29,7 +29,7 @@
             <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> 
             <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/>
           </td>
-           <td>UI Libraries:</td>
+           <td>UI :</td>
           <td>
             <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/> 
             <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/> 
