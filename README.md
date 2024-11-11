@@ -9,7 +9,7 @@
     <h3> 🐦‍🔥 About me:</h3>
     <p> 🔭 I’m currently working on <a href="https://akash-jana.vercel.app">my portfolio</a></p>
     <p> 👨‍💻 I’m looking for Job and Internships</p>
-    <p> 🌱 I’m currently learning Nextjs 15</p>
+    <p> 🌱 I’m currently learning Nextjs 15 and Go</p>
     <p> 📝 Checkout my blogs here: <a href="https://dev.to/akashjana">DEV</a></p>
     <p> ⚒️ All of my projects are available in <a href="https://github.com/AkashJana18?tab=repositories">Repositories</a></p>
     <p> 📫 Reach me at: <a href="mailto:akashjana663@gmail.com">akashjana663@gmail.com</a></p>
