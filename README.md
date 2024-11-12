@@ -29,10 +29,10 @@
             <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> 
             <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/>
           </td>
-           <td>UI :</td>
+           <td>DevOps :</td>
           <td>
-            <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/> 
-            <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/> 
+            <img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/> 
+            <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40"/> 
           </td>
            <td>Tools:</td>
           <td>
@@ -44,10 +44,9 @@
         <tr>
           <td>Frontend:</td>
           <td>
-            <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/> 
-            <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/> 
             <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/> 
             <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/> 
+            <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/> 
             <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/> 
             <img src="https://skillicons.dev/icons?i=next" width="40" height="40"/>
           </td>
