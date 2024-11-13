@@ -15,6 +15,8 @@
     <p> 📫 Reach me at: <a href="mailto:akashjana663@gmail.com">akashjana663@gmail.com</a></p>
   </div>
 </div>
+<h2>Socials </h2>
+  <img src="https://skillicons.dev/icons?i=linkedin,dev,twitter,discord,instagram" alt="java" width="40" height="40"/> 
 <br>
 <div align=center><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" border="0" alt="animated-line-image-0382" width=70% />
 <details>
