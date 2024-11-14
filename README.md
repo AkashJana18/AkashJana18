@@ -12,11 +12,16 @@
     <p> 🌱 I’m currently learning Go & Kubernetes</p>
     <p> 📝 Checkout my blogs here: <a href="https://dev.to/akashjana">DEV</a></p>
     <p> ⚒️ All of my projects are available in <a href="https://github.com/AkashJana18?tab=repositories">Repositories</a></p>
-    <p> 📫 Reach me at: <a href="mailto:akashjana663@gmail.com">akashjana663@gmail.com</a></p>
+    <b> 📫 Reach me at: </b>
+  <a href="https://linkedin.com/u/akashjana"><img src="https://skillicons.dev/icons?i=linkedin" /> </a>
+  <a href="https://dev.to/akashjana"> <img src="https://skillicons.dev/icons?i=dev&theme=light" />  </a>
+   <a href="https://x.com/Akashj_01"><img src="https://skillicons.dev/icons?i=twitter" />  </a>
+   <a href="https://discord.com/channels/@me"><img src="https://skillicons.dev/icons?i=discord" />  </a>
+  <a href="https://www.instagram.com/akashjana__/#"> <img src="https://skillicons.dev/icons?i=instagram" />  </a>
+  <a href="mailto:akashjana663@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail&theme=light" />  </a>
   </div>
 </div>
-<h2>Socials </h2>
-  <img src="https://skillicons.dev/icons?i=linkedin,dev,twitter,discord,instagram" /> 
+
 <br>
 <div align=center><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" border="0" alt="animated-line-image-0382" width=70% />
 <details>
