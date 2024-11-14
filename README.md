@@ -1,20 +1,20 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 <div align=center>
-<h1>Akash Jana <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /><h3>Open Source Enthusiast 💻 | Web Developer 🌐 </h3></h1>
+<a href="https://akash-jana.vercel.app"><h1>Akash Jana <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /><h3>Open Source Enthusiast 💻 | Web Developer 🌐 </h3></h1></a>
 </div>
 
 <div style="display: flex; align-items: flex-start; justify-content: end;">
   <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="500" />
   <div style="max-width: calc(100% - 420px);">
     <h3> 🐦‍🔥 About me:</h3>
-    <p> 🔭 I’m currently working on <a href="https://akash-jana.vercel.app">my portfolio</a></p>
     <p> 👨‍💻 I’m looking for Job and Internships</p>
     <p> 🌱 I’m currently learning Go & Kubernetes</p>
     <p> 📝 Checkout my blogs here: <a href="https://dev.to/akashjana">DEV</a></p>
-    <p> ⚒️ All of my projects are available in <a href="https://github.com/AkashJana18?tab=repositories">Repositories</a></p>
-    <b> 📫 Reach me at: </b>
-  <a href="https://linkedin.com/u/akashjana"><img src="https://skillicons.dev/icons?i=linkedin" /> </a>
-  <a href="https://dev.to/akashjana"> <img src="https://skillicons.dev/icons?i=dev&theme=light" />  </a>
+    <p> 💖 Interests: Art🎨, Chess♟️, Sci-fi🚀</p>
+   </p>
+    <b> 📫 Reach me at: </b><br> 
+  <a href="https://linkedin.com/in/akashjana"><img src="https://skillicons.dev/icons?i=linkedin" /> </a>
+  <a href="https://dev.to/akashjana"> <img src="https://skillicons.dev/icons?i=devto" />  </a>
    <a href="https://x.com/Akashj_01"><img src="https://skillicons.dev/icons?i=twitter" />  </a>
    <a href="https://discord.com/channels/@me"><img src="https://skillicons.dev/icons?i=discord" />  </a>
   <a href="https://www.instagram.com/akashjana__/#"> <img src="https://skillicons.dev/icons?i=instagram" />  </a>
