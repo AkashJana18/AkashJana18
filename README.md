@@ -1,7 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
-<div align=center>
-<a href="https://akash-jana.vercel.app"><h1>Akash Jana <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /><h3>Open Source Enthusiast 💻 | Web Developer 🌐 </h3></h1></a>
+<div align="center">
+  <a href="https://akash-jana.vercel.app" target="_blank">
+    <h1>Akash Jana <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /></h1>
+  </a>
+  <h3>Open Source Enthusiast 💻 | Web Developer 🌐</h3>
 </div>
+
 
 <div style="display: flex; align-items: flex-start; justify-content: end;">
   <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="500" />
@@ -13,11 +17,11 @@
     <p> 💖 Interests: Art🎨, Chess♟️, Sci-fi🚀</p>
    </p>
     <b> 📫 Reach me at: </b><br> 
-  <a href="https://linkedin.com/in/akashjana"><img src="https://skillicons.dev/icons?i=linkedin" /> </a>
-  <a href="https://dev.to/akashjana"> <img src="https://skillicons.dev/icons?i=devto" />  </a>
-   <a href="https://x.com/Akashj_01"><img src="https://skillicons.dev/icons?i=twitter" />  </a>
-   <a href="https://discord.com/channels/@me"><img src="https://skillicons.dev/icons?i=discord" />  </a>
-  <a href="https://www.instagram.com/akashjana__/#"> <img src="https://skillicons.dev/icons?i=instagram" />  </a>
+  <a href="https://linkedin.com/in/akashjana" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /> </a>
+  <a href="https://dev.to/akashjana" target="_blank"> <img src="https://skillicons.dev/icons?i=devto" />  </a>
+   <a href="https://x.com/Akashj_01" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" />  </a>
+   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://skillicons.dev/icons?i=discord" />  </a>
+  <a href="https://www.instagram.com/akashjana__/#" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" />  </a>
   <a href="mailto:akashjana663@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail&theme=light" />  </a>
   </div>
 </div>
