@@ -25,9 +25,7 @@
 </div>
 
 <br>
-  <a href="https://akash-jana.vercel.app" target="_blank">
 <div align=center><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" border="0" alt="animated-line-image-0382" width=70% />
-</a>
 <details>
    <summary> <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="30" height="30" /> Tech Stack </h2></summary>
       <table height=150 width=100%>
