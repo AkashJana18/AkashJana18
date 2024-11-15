@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 <div align="center">
-  <a href="https://akash-jana.vercel.app" target="_blank">
     <h1>Akash Jana <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /></h1>
-  </a>
   <h3>Open Source Enthusiast 💻 | Web Developer 🌐</h3>
 </div>
 
@@ -27,7 +25,9 @@
 </div>
 
 <br>
+  <a href="https://akash-jana.vercel.app" target="_blank">
 <div align=center><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" border="0" alt="animated-line-image-0382" width=70% />
+</a>
 <details>
    <summary> <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="30" height="30" /> Tech Stack </h2></summary>
       <table height=150 width=100%>
