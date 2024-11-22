@@ -10,7 +10,7 @@
   <div style="max-width: calc(100% - 420px);">
     <h3> 🐦‍🔥 About me:</h3>
     <p> 👨‍💻 I’m looking for Job and Internships</p>
-    <p> 🌱 I’m currently learning Go & Kestra</p>
+    <p> 🌱 I’m currently learning Guitar 🎸</p>
     <p> 📝 Checkout my blogs here: <a href="https://dev.to/akashjana">DEV</a></p>
     <p> 💖 Interests: Art🎨, Chess♟️, Sci-fi🚀</p>
    </p>
