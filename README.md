@@ -5,12 +5,26 @@
 </div>
 
 
+<details>
+  <summary>
+    <h2>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="30" height="30" />  
+      Blogs:
+    </h2>
+  </summary>
+1. [Contribution to Instill.ai](https://dev.to/akashjana/from-zero-to-merge-building-a-json-renaming-field-component-in-go-17nh)
+2. [My Hacktoberfest Experience](https://dev.to/akashjana/my-hacktoberfest-experience-a-journey-of-code-challenges-and-community-1b9p)
+3. [Providing sample for Daytona](https://dev.to/akashjana/conquering-the-setup-loop-with-daytona-5614)
+4. [My Tech Journey](https://dev.to/akashjana/my-tech-journey-web-dev-dsa-open-source-3483)
+5. [Project- Copilotmate](https://dev.to/akashjana/how-i-integrated-copilotkit-ai-into-copilotmate-23gm)
+</details>
+
 <div style="display: flex; align-items: flex-start; justify-content: end;">
   <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="500" />
   <div style="max-width: calc(100% - 420px);">
     <h3> 🐦‍🔥 About me:</h3>
     <p> 👨‍💻 I’m looking for Job and Internships</p>
-    <p> 🌱 I’m currently learning Guitar 🎸</p>
+    <p> 🌱 I’m currently learning Rust🦀 & Guitar 🎸</p>
     <p> 📝 Checkout my blogs here: <a href="https://dev.to/akashjana">DEV</a></p>
     <p> 💖 Interests: Art🎨, Chess♟️, Sci-fi🚀, Tech💻</p>
    </p>
@@ -34,7 +48,7 @@
           <td>
             <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> 
             <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> 
-            <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> 
+            <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> 
             <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> 
             <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/>
           </td>
