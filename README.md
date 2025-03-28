@@ -9,9 +9,9 @@
   <div style="max-width: calc(100% - 420px);">
     <h3> 🐦‍🔥 About me:</h3>
     <p> 👨‍💻 Looking for Job </p>
-    <p> 🌱 Currently learning Rust🦀 & Guitar 🎸</p>
+    <p> 🌱 Currently learning Data Science📊 & Guitar 🎸</p>
     <p> 📝 Checkout my blogs here: <a href="https://dev.to/akashjana">DEV</a></p>
-    <p> 💖 Interests: Art🎨, Chess♟️, Sci-fi🚀, Tech💻</p>
+    <p> 💖 Interests:  Tech💻, Art🎨, Chess♟️, Sci-fi🚀</p>
    </p>
     <b> 📫 Reach me at: </b><br> 
   <a href="https://linkedin.com/in/akashjana" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /> </a>
