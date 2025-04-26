@@ -8,7 +8,7 @@
   <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="500" />
   <div style="max-width: calc(100% - 420px);">
     <h3> 🐦‍🔥 About me:</h3>
-    <p> 👨‍💻 Looking for Job. Hire me <a href="https://contra.com/akash_jaana" target="_blank">@contra</a></p>
+    <p> 👨‍💻 Looking for Job. Hire me <a href="https://contra.com/akash_jana" target="_blank">@contra</a></p>
     <p> 🌱 Currently learning exploring Web3 & rust</p>
     <p> 📝 Checkout my blogs here: <a href="https://dev.to/akashjana" target="_blank">DEV</a></p>
     <p> 💖 Interests:  Tech💻, Art🎨, Chess♟️, Sci-fi🚀</p>
