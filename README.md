@@ -118,6 +118,7 @@
 
 
 <h2 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="50" height="40" /> My GitHub Stats</h2>
+<img src="https://algora.io/og/user/AkashJana18" />
   </div>
   <div align="center">
     <table>
