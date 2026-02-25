@@ -48,11 +48,9 @@
         <tr>
           <td>Programming:</td>
           <td>
-            <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> 
-            <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> 
+            <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/> 
+            <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/> 
             <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> 
-            <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> 
-            <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/>
           </td>
            <td>DevOps :</td>
           <td>
@@ -69,8 +67,6 @@
         <tr>
           <td>Frontend:</td>
           <td>
-            <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/> 
-            <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/> 
             <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/> 
             <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/> 
             <img src="https://skillicons.dev/icons?i=next" width="40" height="40"/>
