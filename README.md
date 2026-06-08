@@ -93,15 +93,6 @@ Tech Stack
 </div>
 
 
-
-<div align=center><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" border="0" alt="animated-line-image-0382" width=70% />
-
-
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" border="0" alt="animated-line-image-0382" width=70% />
-</div>
-
-
 <h2 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="50" height="40" /> My GitHub Stats</h2>
   </div>
   <div align="center">
@@ -122,8 +113,5 @@ Tech Stack
 </div>
 </td>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![](https://visitcount.itsvg.in/api?id=AkashJana18&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
