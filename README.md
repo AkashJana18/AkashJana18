@@ -4,20 +4,6 @@
   <h3>Solana Developer | Mobile | Web3</h3>
 </div>
 
-<div style="display: flex; align-items: flex-start; justify-content: end;">
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="500" />
-  <div style="max-width: calc(100% - 420px);">
-    <h3> 🐦‍🔥  About me:</h3>
-    <p>Currently building production-oriented projects while deepening my understanding of on-chain systems, transaction workflows, and performant Web3 UX. Exploring Solana development & Rust. 📱 Building mobile-first Web3 apps. Streaming chess <a href="https://www.youtube.com/channel/UCyGcYXATwQpKcszhMo1Tpmw">@akaverselive</a></p>
-    <p> Interests: Anime | Tech | Chess | Art | Sci-fi</p>
-    <b> Contacts: </b><br> 
-  <a href="https://linkedin.com/in/akashjana" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /> </a>
-      <a href="https://x.com/akashjana__" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" />  </a>
-   <a href="https://discord.com/invite/DzkNvwbgc8" target="_blank"><img src="https://skillicons.dev/icons?i=discord" />  </a>
-  <a href="https://www.instagram.com/akashjana__" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" />  </a>
-  <a href="mailto:akashjana663@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail&theme=light" />  </a>
-  </div>
-</div>
 
 
 <br>
