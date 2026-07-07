@@ -1,13 +1,29 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
-<div align="center">
+<table>
+    <tr>
+        <td>
+<div align="start">
     <h1>Akash Jana <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /></h1>
-  <h3>Solana Developer | Mobile | Web3</h3>
+  <h3> Rust • Solana • Fullstack Engineer</h3>
+    <p>
+
+
+Over the last four years I've explored web & mobile development, AI & Web3. These days I'm focused on Rust, where I've been learning & building for the past year, with a growing interest in backend systems, developer tools & Solana.
+
+Earned $7k+ in open source & bounties.
+
+Outside of programming you'll probably find me watching anime, playing chess, painting, lifting weights, practicing guitar, or occasionally remembering to touch grass.
+
+Available for fulltime roles. 
+
+Reach out: [X](https://x.com/akashjana__) • [Linkedin](https://linked.com/in/akashjana) • [akashjana.tech](https://akashjana.tech)
+    </p>
 </div>
 
+</td>
 
+<td>
 
-<br>
-<div align="center">
 <h2>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="30"/>
 Tech Stack
@@ -31,14 +47,14 @@ Tech Stack
 <tr>
 <td><b>Backend</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,actix,postgres,mongodb"/>
 </td>
 </tr>
 
 <tr>
 <td><b>Tools</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=git,vscode,bash,docker"/>
+<img src="https://skillicons.dev/icons?i=neovim,git,vscode,bash,docker"/>
     <img src="https://docs.excalidraw.com/img/logo.svg" width="48" />
 </td>
 </tr>
@@ -76,10 +92,12 @@ Tech Stack
 </tr>
 
 </table>
-</div>
 
+</td>
+</tr>
+</table>
 
-<h2 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="50" height="40" /> My GitHub Stats</h2>
+<h2 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="50" height="30" /> Stats </h2>
   </div>
   <div align="center">
     <table>
