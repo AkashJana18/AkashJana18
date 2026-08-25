@@ -4,7 +4,7 @@
         <td>
 <div align="start">
     <h1>Akash Jana <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /></h1>
-  <h3> Rust • Solana • Fullstack Engineer</h3>
+  <h3> Rust • Typescript • Fullstack Engineer</h3>
     <p>
 
 
