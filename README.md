@@ -10,7 +10,7 @@
 
 Over the last four years I've explored web & mobile development, AI & Web3. These days I'm focused on Rust, where I've been learning & building for the past year, with a growing interest in backend systems.
 
-Earned $7k+ in open source & bounties.
+Earned <b>$7.5k+</b> in open source & bounties.
 
 Outside of programming you'll probably find me watching anime, playing chess, painting, lifting weights, practicing guitar, or occasionally remembering to touch grass.
 
@@ -33,7 +33,7 @@ Tech Stack
 <tr>
 <td ><b>Languages</b></td>
 <td width="100%">
-<img src="https://skillicons.dev/icons?i=js,ts,rust"/>
+<img src="https://skillicons.dev/icons?i=rust,ts,js"/>
 </td>
 </tr>
 
@@ -47,7 +47,7 @@ Tech Stack
 <tr>
 <td><b>Backend</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=nodejs,express,actix,postgres,mongodb"/>
+<img src="https://skillicons.dev/icons?i=actix,nodejs,express,postgres,mongodb"/>
 </td>
 </tr>
 
@@ -64,11 +64,11 @@ Tech Stack
 <td>
 
 <!-- Solana -->
-<img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="44"/>
+<img src="https://solana.com/src/img/branding/solanaLogoMark.svg" width="44"/>
 
 <img src="https://framerusercontent.com/images/GG71btxk1SsDptWKQSVzgiRuF8Q.png" width="80"/>
 <!-- Anchor -->
-<img src="https://camo.githubusercontent.com/e44c3339db2a8b56dbbfb804fdb1f076e73046909a666e1a4522acf9e41737d7/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f46565556614f3958454141756c764b3f666f726d61743d706e672675203d313630" width="50"/>
+<img src="https://www.anchor-lang.com/icons/anchor.png" width="44"/>
 
 </td>
 </tr>
@@ -101,7 +101,7 @@ Tech Stack
     <table>
       <tr>
         <td width="45%">
-           <a href="https://github.com/AkashJana18"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashJana18&theme=merko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+           <a href="https://github.com/AkashJana18"><img src="https://github-activity-graph.luckylinux.dev/graph?username=AkashJana18&theme=merko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
         </td>
         <td width="45%">
           <a href="https://github.com/AkashJana18"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashJana18&theme=tokyonight&hide_border=true" /></a>
