@@ -101,15 +101,16 @@ Tech Stack
     <table>
       <tr>
         <td width="45%">
-           <a href="http://www.github.com/AkashJana18"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashJana18&theme=merko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+           <a href="https://github.com/AkashJana18"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashJana18&theme=merko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
         </td>
         <td width="45%">
-          <a href="http://www.github.com/AkashJana18"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashJana18&theme=tokyonight&hide_border=true" /></a>
+          <a href="https://github.com/AkashJana18"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashJana18&theme=tokyonight&hide_border=true" /></a>
+        </td>
+      </tr>
     </table>
-      </div>
-    </td>
-  </tr>
-
+  </div>
+</td>
+</tr>
 </table>
 
 </div>
