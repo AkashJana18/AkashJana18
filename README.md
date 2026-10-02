@@ -8,7 +8,7 @@
     <p>
 
 
-Over the last four years I've explored web & mobile development, AI & Web3. These days I'm focused on Rust, where I've been learning & building for the past year, with a growing interest in backend systems, developer tools & Solana.
+Over the last four years I've explored web & mobile development, AI & Web3. These days I'm focused on Rust, where I've been learning & building for the past year, with a growing interest in backend systems.
 
 Earned $7k+ in open source & bounties.
 
@@ -68,9 +68,7 @@ Tech Stack
 
 <img src="https://framerusercontent.com/images/GG71btxk1SsDptWKQSVzgiRuF8Q.png" width="80"/>
 <!-- Anchor -->
-<img src="https://camo.githubusercontent.com/e44c3339db2a8b56dbbfb804fdb1f076e73046909a666e1a4522acf9e41737d7/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f46565556614f3958454141756c764b3f666f726d61743d706e67266e616d653d736d616c6c" width="44"/>
-
-
+<img src="https://camo.githubusercontent.com/e44c3339db2a8b56dbbfb804fdb1f076e73046909a666e1a4522acf9e41737d7/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f46565556614f3958454141756c764b3f666f726d61743d706e672675203d313630" width="50"/>
 
 </td>
 </tr>
